@@ -21,8 +21,6 @@
 				<xpath>*/ThingDef[defName="ROMA_SpiderRace"]/statBases</xpath>
 				<value>
 				<MeleeDodgeChance>0.08</MeleeDodgeChance>
-				<ArmorRating_Blunt>0.1</ArmorRating_Blunt>
-				<ArmorRating_Sharp>0.2</ArmorRating_Sharp>
 				</value>
 			</li>
 			
@@ -36,7 +34,7 @@
 							<power>7</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Mouth</linkedBodyPartsGroup>
-							<armorPenetration>0.25</armorPenetration>
+							<armorPenetration>0.12</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -57,8 +55,6 @@
 				<value>
 				<MeleeDodgeChance>0.05</MeleeDodgeChance>
 				<MeleeCritChance>0.2</MeleeCritChance>
-				<ArmorRating_Blunt>0.1</ArmorRating_Blunt>
-				<ArmorRating_Sharp>0.3</ArmorRating_Sharp>
 				</value>
 			</li>
 			
@@ -72,7 +68,7 @@
 							<power>16</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Mouth</linkedBodyPartsGroup>
-							<armorPenetration>0.55</armorPenetration>
+							<armorPenetration>0.24</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>front left leg</label>
@@ -83,7 +79,7 @@
 							<power>12</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftLeg</linkedBodyPartsGroup>
-							<armorPenetration>0.25</armorPenetration>
+							<armorPenetration>0.16</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>front right leg</label>
@@ -94,7 +90,7 @@
 							<power>12</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightLeg</linkedBodyPartsGroup>
-							<armorPenetration>0.25</armorPenetration>
+							<armorPenetration>0.16</armorPenetration>
 						</li>
 					</tools>
 				</value>
@@ -114,8 +110,6 @@
 				<value>
 				<MeleeDodgeChance>0.03</MeleeDodgeChance>
 				<MeleeCritChance>0.3</MeleeCritChance>
-				<ArmorRating_Blunt>0.4</ArmorRating_Blunt>
-				<ArmorRating_Sharp>0.6</ArmorRating_Sharp>
 				</value>
 			</li>
 			
@@ -129,7 +123,7 @@
 							<power>30</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>Mouth</linkedBodyPartsGroup>
-							<armorPenetration>0.85</armorPenetration>
+							<armorPenetration>0.75</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>front left leg</label>
@@ -140,7 +134,7 @@
 							<power>25</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontLeftLeg</linkedBodyPartsGroup>
-							<armorPenetration>0.35</armorPenetration>
+							<armorPenetration>0.22</armorPenetration>
 						</li>
 						<li Class="CombatExtended.ToolCE">
 							<label>front right leg</label>
@@ -151,7 +145,7 @@
 							<power>25</power>
 							<cooldownTime>1.65</cooldownTime>
 							<linkedBodyPartsGroup>FrontRightLeg</linkedBodyPartsGroup>
-							<armorPenetration>0.35</armorPenetration>
+							<armorPenetration>0.22</armorPenetration>
 						</li>
 					</tools>
 				</value>
